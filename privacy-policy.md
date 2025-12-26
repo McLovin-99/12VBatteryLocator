@@ -1,10 +1,10 @@
-# Privacy Policy for 12V Battery Locator
+# Privacy Policy for POWEROFF
 
-**Last Updated: December 23, 2025**
+**Last Updated: December 25, 2025**
 
 ## Overview
 
-12V Battery Locator ("the App") is committed to protecting your privacy. This Privacy Policy explains our practices regarding data collection and usage.
+POWEROFF ("the App") is committed to protecting your privacy. This Privacy Policy explains our practices regarding data collection and usage.
 
 ## Data Collection
 
